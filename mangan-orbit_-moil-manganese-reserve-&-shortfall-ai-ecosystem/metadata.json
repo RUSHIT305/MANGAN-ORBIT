@@ -1,0 +1,6 @@
+{
+  "name": "MANGAN-ORBIT: MOIL Manganese Reserve & Shortfall AI Ecosystem",
+  "description": "AI/ML and Space Technology platform for MOIL Limited by Team NeuroSpark Astra (SIH26009) featuring ReserveLens spatial mapping, Shortfall Sentinel predictive forecasting, and ActionPilot prescriptive mine continuity.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

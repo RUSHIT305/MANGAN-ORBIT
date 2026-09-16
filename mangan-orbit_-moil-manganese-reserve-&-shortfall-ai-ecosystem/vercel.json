@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "framework": "vite",
+  "rewrites": [
+    {
+      "source": "/api/ai/cadastral-audit",
+      "destination": "/api/ai/cadastral-audit.ts"
+    },
+    {
+      "source": "/api/cadastral-audit",
+      "destination": "/api/cadastral-audit.ts"
+    },
+    {
+      "source": "/api/health",
+      "destination": "/api/health.ts"
+    },
+    {
+      "source": "/api/(.*)",
+      "destination": "/api/$1.ts"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
