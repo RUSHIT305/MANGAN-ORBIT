@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="gemini-svg.svg" alt="Mangan Orbit Logo" width="100%" />
+  <img src="utils/gemini-svg.svg" alt="Mangan Orbit Logo" width="100%" />
 </p>
